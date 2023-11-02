@@ -6,6 +6,10 @@
 - [Good first issues](https://github.com/issues?q=is%3Aopen+label%3A%22good+first+issue%22+)
 - [Good first issues - No assignee](https://github.com/issues?q=is%3Aopen+label%3A%22good+first+issue%22+comments%3A0+no%3Aassignee)
 
+## Help Wanted 🙋
+
+
+- [Help wanted issues - No assignee](https://github.com/issues?q=is%3Aopen+no%3Aassignee+label%3A%22help+wanted%22+)
 ## DevOps ♾️
 - [DevOps issues](https://github.com/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+label%3ACI%2FCD%2CCI%2CDevOps%2Carea%2FCI%2CInfrastructure)
 - [Github Action issues](https://github.com/issues?q=is%3Aopen+no%3Aassignee+label%3Agithub_actions)
