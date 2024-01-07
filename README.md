@@ -1,11 +1,11 @@
-# Find GitHub Issues
+# Find GitHub Issues 👁️‍🗨️
 Collection of GitHub filters for open-source contributors
 
-## Tips to find the issues
+## Tips to find the issues 🔖
 
 See [filtering-and-searching-issues-and-pull-requests](https://docs.github.com/en/issues/tracking-your-work-with-issues/filtering-and-searching-issues-and-pull-requests)
 
-## Opened GitHub issues list
+## Opened GitHub issues list 🔗
 
 Below is the list of open issues with no assignee. It's ready for contributions. Check it out!
 
