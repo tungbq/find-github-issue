@@ -1,8 +1,8 @@
 # Tips to find the issues
 
-- See: https://docs.github.com/en/issues/tracking-your-work-with-issues/filtering-and-searching-issues-and-pull-requests
+See: [filtering-and-searching-issues-and-pull-requests](https://docs.github.com/en/issues/tracking-your-work-with-issues/filtering-and-searching-issues-and-pull-requests)
 
-# GitHub Issues
+# Open GitHub Issues
 
 Below is the list of open issues with no assignee. It's ready for contributions. Check it out!
 
