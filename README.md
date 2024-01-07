@@ -18,4 +18,6 @@ Below is the list of open issues with no assignee. It's ready for contributions.
 | DevOps | Docker            | [Click to find](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3Adocker+no%3Aassignee)                                             |
 | DevOps | Github Action     | [Click to find](https://github.com/issues?q=is%3Aopen+no%3Aassignee+label%3Agithub_actions)                                                |
 
-For more request about the filter. Please open an issue to let us know. Thanks!
+## Hit the Star! ⭐
+- If you find this repository helpful, kindly consider showing your appreciation by giving it a star ⭐ Thanks! 💖
+- For more request about the filter. Please open an issue to let us know. Thanks!
