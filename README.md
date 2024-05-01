@@ -23,7 +23,9 @@ Below is the list of open issues with no assignee. It's ready for contributions.
 | 9   | **Github Action**         | [Click to find](https://github.com/issues?q=is%3Aopen+no%3Aassignee+label%3Agithub_actions)                                                |
 | 10  | **Microsoft Collaborate** | [Click to find](https://opensource.microsoft.com/collaborate/)                                                                             |
 
-## Hit the Star! ⭐
+And more upcoming filters...⏩ you can star/follow this repository to get more up-to-dated content ⭐
+
+## Contributing
 
 - If you find this repository helpful, kindly consider showing your appreciation by giving it a star ⭐ Thanks! 💖
 - For more request about the filter. Please open an issue to let us know. Thanks!
