@@ -1,6 +1,6 @@
 # Find GitHub Issues ❔
 
-Collection of GitHub filters for open-source contributors
+:octocat: Collection of GitHub filters for open-source contributors
 
 ## Tips to find the issues 🔖
 
