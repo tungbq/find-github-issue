@@ -6,7 +6,7 @@ Collection of GitHub filters for open-source contributors
 
 See [filtering-and-searching-issues-and-pull-requests](https://docs.github.com/en/issues/tracking-your-work-with-issues/filtering-and-searching-issues-and-pull-requests)
 
-## Opened GitHub issues list 🔗
+## GitHub issues list 🔗
 
 Below is the list of open issues with no assignee. It's ready for contributions. Check it out!
 
