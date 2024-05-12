@@ -1,4 +1,4 @@
-# Find GitHub Issues ❔
+# Find GitHub Issues
 
 :octocat: Collection of GitHub filters for open-source contributors
 
@@ -8,7 +8,7 @@ See [filtering-and-searching-issues-and-pull-requests](https://docs.github.com/e
 
 ## GitHub issues list 🔗
 
-Below is the list of open issues with no assignee. It's ready for contributions. Check it out!
+:octocat: Below is the list of open issues with no assignee. It's ready for contributions. Check it out!
 
 | ID  | Name                      | Link                                                                                                                                       |
 | :-- | :------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -27,6 +27,11 @@ Below is the list of open issues with no assignee. It's ready for contributions.
 | 13  | **Documentation**         | [Click to find](https://github.com/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+label%3Adocumentation)                                      |
 | 14  | **Frontend**              | [Click to find](https://github.com/issues?q=+is%3Aissue++is%3Aopen+no%3Aassignee+label%3Afrontend+)                                        |
 | 15  | **Backend**               | [Click to find](https://github.com/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+label%3Abackend)                                            |
+| 16  | **Java**                  | [Click to find](https://github.com/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+label%3AJava)                                               |
+| 17  | **Tests**                 | [Click to find](https://github.com/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+label%3Atests%2Ctest)                                       |
+| 18  | **React**                 | [Click to find](https://github.com/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+label%3Areact)                                              |
+| 19  | **CSS**                   | [Click to find](https://github.com/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+label%3Acss)                                                |
+| 20  | **Python**                | [Click to find](https://github.com/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+label%3Apython)                                             |
 
 And more upcoming filters...⏩ you can star/follow this repository to get more up-to-dated content ⭐
 
