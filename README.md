@@ -22,6 +22,11 @@ Below is the list of open issues with no assignee. It's ready for contributions.
 | 8   | **Bounty**                | [Click to find](https://github.com/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+label%3Abounty%2C+Bounty%2C%F0%9F%92%8E+Bounty)             |
 | 9   | **Github Action**         | [Click to find](https://github.com/issues?q=is%3Aopen+no%3Aassignee+label%3Agithub_actions)                                                |
 | 10  | **Microsoft Collaborate** | [Click to find](https://opensource.microsoft.com/collaborate/)                                                                             |
+| 11  | **Javascript**            | [Click to find](https://github.com/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+label%3Ajavascript+)                                        |
+| 12  | **NodeJS**                | [Click to find](https://github.com/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+label%3ANode.js)                                            |
+| 13  | **Documentation**         | [Click to find](https://github.com/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+label%3Adocumentation)                                      |
+| 14  | **Frontend**              | [Click to find](https://github.com/issues?q=+is%3Aissue++is%3Aopen+no%3Aassignee+label%3Afrontend+)                                        |
+| 15  | **Backend**               | [Click to find](https://github.com/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee+label%3Abackend)                                            |
 
 And more upcoming filters...⏩ you can star/follow this repository to get more up-to-dated content ⭐
 
