@@ -1,4 +1,4 @@
-# Find GitHub Issues ❔
+# Find GitHub Issues
 
 :octocat: Collection of GitHub filters for open-source contributors
 
@@ -8,7 +8,7 @@ See [filtering-and-searching-issues-and-pull-requests](https://docs.github.com/e
 
 ## GitHub issues list 🔗
 
-Below is the list of open issues with no assignee. It's ready for contributions. Check it out!
+:octocat: Below is the list of open issues with no assignee. It's ready for contributions. Check it out!
 
 | ID  | Name                      | Link                                                                                                                                       |
 | :-- | :------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
