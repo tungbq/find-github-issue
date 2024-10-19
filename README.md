@@ -31,6 +31,7 @@ See [filtering-and-searching-issues-and-pull-requests](https://docs.github.com/e
 | 18  | **React**                 | [Click to find](https://github.com/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+label%3Areact)                                              |
 | 19  | **CSS**                   | [Click to find](https://github.com/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+label%3Acss)                                                |
 | 20  | **Python**                | [Click to find](https://github.com/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+label%3Apython)                                             |
+| 21  | **Hacktoberfest-Easy**    | [Click to find](https://github.com/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+label%3Ahacktoberfest%2Cgoodfirstissue)                     |
 
 And more upcoming filters...⏩ you can star/follow this repository to get more up-to-dated content ⭐
 
